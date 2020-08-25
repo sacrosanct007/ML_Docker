@@ -8,3 +8,5 @@
 Also when you want to save the requirements.txt you can use !pip freeze > requirements.txt in your jupyter notebook
 
 Reference: https://towardsdatascience.com/jupyter-data-science-stack-docker-in-under-15-minutes-19d8f822bd45
+
+-------------------------------------
