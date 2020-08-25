@@ -1,7 +1,7 @@
 # ML_Docker
 
 **Docker steps**
-1. Go to command prompt (cmd) and change directory to C:\Users\aditi\OneDrive\Desktop\ML_Docker
+1. Go to command prompt (cmd) and change directory to C:\Users\aditi\OneDrive\Desktop\ML_Docker (Replace with your local folder where "docker-compose.yml" is located and where you     want to save work )
 	cd C:\Users\aditi\OneDrive\Desktop\ML_Docker  
 2. Now run query 'docker-compose up'  
 3. Then the command prompt will provide a link which you can open on chrome and your work will be automatically saved in directory C:\Users\aditi\OneDrive\Desktop\ML_Docker
