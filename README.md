@@ -17,7 +17,7 @@ Reference: https://towardsdatascience.com/jupyter-data-science-stack-docker-in-u
 You must have Scikit Learn, Pandas (for Machine Leraning Model) and Flask (for API) installed.
 
 ***Project Structure***
-This project has four major parts (files stored in test1 folder) :
+This project has four major parts (files stored in subfolder for flask) :
 1. model.py - This contains code fot our Machine Learning model to predict employee salaries absed on trainign data in 'hiring.csv' file.
 2. app.py - This contains Flask APIs that receives employee details through GUI or API calls, computes the precited value based on our model and returns it.
 3. request.py - This uses requests module to call APIs already defined in app.py and dispalys the returned value.
