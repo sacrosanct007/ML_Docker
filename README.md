@@ -1,6 +1,6 @@
 # ML_Docker
 
-**Docker steps**
+**Data Science Docker steps**
 1. Go to command prompt (cmd) and change directory to C:\Users\aditi\OneDrive\Desktop\ML_Docker (Replace with your local folder where "docker-compose.yml" is located and where you     want to save work )  
 	cd C:\Users\aditi\OneDrive\Desktop\ML_Docker  
 2. Now run query 'docker-compose up'  
